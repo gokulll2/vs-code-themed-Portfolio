@@ -1,4 +1,4 @@
-# VS Code-Themed Portfolio with React.js
+# VS Code-Themed Portfolio
 
 ## Description
 
